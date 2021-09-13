@@ -1,4 +1,3 @@
-## Portfolio of Examples and cases in Data Science, Optimization and Process Improvement
 
 ### [A3 and TBP for Process Improvement](https://github.com/elgc/Portfolio/blob/main/A3TBP_Appaloosa.pdf)
 
