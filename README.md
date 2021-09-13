@@ -6,4 +6,4 @@ This is a short paper on the use of the A3/TBP methodology for process improveme
 
 Some of my friends from overseas are not familiar with baseball quotes. A future case with soccer references is on the way. Best regards.
 
-[] (https://github.com/elgc/elgc_portfolio/blob/main/Images/Before.png)
+[](https://github.com/elgc/elgc_portfolio/blob/main/Images/Before.pngg)
