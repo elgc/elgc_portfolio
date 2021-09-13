@@ -1,33 +1,8 @@
 ## Portfolio of Examples and cases in Data Science, Optimization and Process Improvement
 
-### Case 1.
+### [A3 and TBP for Process Improvement](https://github.com/elgc/Portfolio/blob/main/A3TBP_Appaloosa.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a short paper on the use of the A3/TBP methodology for process improvement. Also, it tries to convey the message that any transformational project needs to be explored and observed in the "place where the action is." The term for exploring and observing a process is called Genchi Genbutsu.
 
-```markdown
-Syntax highlighted code block
+Some of my friends from overseas are not familiar with baseball quotes. A future case with soccer references is on the way. Best regards.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elgc/elgc_portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
