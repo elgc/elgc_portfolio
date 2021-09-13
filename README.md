@@ -1,4 +1,4 @@
-## Portfolio of Excmples and cases in Data Science, Optimization and Process Improvement
+## Portfolio of Examples and cases in Data Science, Optimization and Process Improvement
 
 ### Case 1.
 
