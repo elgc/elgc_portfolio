@@ -1,5 +1,7 @@
-## Portfolio
+# Portfolio
 ## Ernesto L. Garcia C., PhD.
+
+---
 
 ### [A3 and TBP for Process Improvement](https://github.com/elgc/Portfolio/blob/main/A3TBP_Appaloosa.pdf)
 
