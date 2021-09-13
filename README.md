@@ -1,5 +1,7 @@
 # Portfolio
-## Ernesto L. Garcia C., PhD.
+### Ernesto L. Garcia C., PhD.
+
+"We data scientists are continuous improvers, we are able to choose the right technology, understand the business context and solve a wide set of problems individually or as a team."
 
 ### [A3 and TBP for Process Improvement](https://github.com/elgc/Portfolio/blob/main/A3TBP_Appaloosa.pdf)
 
