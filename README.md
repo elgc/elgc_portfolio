@@ -1,7 +1,7 @@
 # Portfolio
 ### Ernesto L. Garcia C., PhD.
 
-*"We data scientists are continuous improvers, we are able to choose the right technology, understand the business context and solve a wide set of problems individually or as a team."*
+*"We data scientists are continuous improvers, able to choose the right technology, understand the business context and solve a wide set of problems individually or as a team."*
 
 ### 1. [Market Segmentation using RFM and Cluster Analysis](https://github.com/elgc/Market_Segmentation/blob/main/MarketSegmentation1.ipynb)
 **(Cluster Analysis, RFM customer Segmentation)**
