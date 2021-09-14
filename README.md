@@ -12,7 +12,7 @@
 
 The data consists of 594783 entries with three columns: Date of purchase, Client number, and Sale value from a company that offers delivery services. 
 
-**Cluster analysis** is a statistical method used to group similar objects into respective categories. It is also known as segmentation analysis, taxonomy analysis, or clustering. When these groups are clearly defined, a marketing team can target clusters of customers with cluster with tailored, targeted strategies.
+**Cluster analysis** is a statistical method used to group similar objects into respective categories. It is also known as segmentation analysis, taxonomy analysis, or clustering. When these groups are clearly defined, a marketing team can target customers with tailored strategies.
 
 ![](/Images/NoClusters.png)
 ![](/Images/Cluster1.png)
