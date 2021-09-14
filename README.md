@@ -3,7 +3,7 @@
 
 *"We data scientists are continuous improvers, we are able to choose the right technology, understand the business context and solve a wide set of problems individually or as a team."*
 
-### [Market Segmentation using RFM and Cluster Analysis](https://github.com/elgc/Market_Segmentation/blob/main/MarketSegmentation1.ipynb)
+### 1. [Market Segmentation using RFM and Cluster Analysis](https://github.com/elgc/Market_Segmentation/blob/main/MarketSegmentation1.ipynb)
 **(Cluster Analysis, RFM customer Segmentation)**
 - Market segmentation is the process of dividing a consumer market, normally consisting of existing and potential customers, into sub-groups of consumers based on some type of shared characteristics.
 - RFM analysis is a data driven customer behavior segmentation technique.
@@ -18,7 +18,7 @@ The data consists of 594783 entries with three columns: Date of purchase, Client
 ![](/Images/Cluster1.png)
 
 
-### [A3 and TBP for Process Improvement](https://github.com/elgc/Portfolio/blob/main/A3TBP_Appaloosa.pdf)
+### 2. [A3 and TBP for Process Improvement](https://github.com/elgc/Portfolio/blob/main/A3TBP_Appaloosa.pdf)
 **(Process improvement, Lean, Six Sigma)** <br/>
 This is a short paper on the use of the A3/TBP methodology for process improvement. Also, it tries to convey the message that any transformational project needs to be explored and observed in the "place where the action is." The term for exploring and observing a process is called Genchi Genbutsu.
 
@@ -26,7 +26,7 @@ Some of my friends from overseas are not familiar with baseball quotes. A future
 
 ![](/Images/Before.png)
 ---
-### Classifiers improving human appraisers benchmark:
+### 3. [Classifiers improving human appraisers evaluation]
 **(KNN, SVM, Logistic Regression)**
 
 [KNN](https://github.com/elgc/Other-Classifiers/blob/main/KNN-Sonar%20Data.ipynb)
