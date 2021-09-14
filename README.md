@@ -27,3 +27,5 @@ Each pattern is a set of 60 features in the range 0.0 to 1.0. Each feature repre
 The label associated with each record contains "Rock" or "Mine".
 
 Three trained human subjects were each tested on 100 signals, chosen at random from the set of 208 returns used to create this data set. Their responses ranged between **88% and 97% correct**. However, they may have been using information from the raw sonar signal that is not preserved in the processed data sets presented here.
+
+![](/Images/Table.png)
