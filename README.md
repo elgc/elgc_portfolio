@@ -4,7 +4,7 @@
 *"We data scientists are continuous improvers, able to choose the right technology, understand the business context and solve a wide set of problems individually or as a team."*
 
 ### 1. [Market Segmentation using RFM and Cluster Analysis](https://github.com/elgc/Market_Segmentation/blob/main/MarketSegmentation1.ipynb)
-**(Cluster Analysis, RFM customer Segmentation)**
+**(Cluster Analysis, RFM Customer Segmentation)**
 - Market segmentation is the process of dividing a consumer market, normally consisting of existing and potential customers, into sub-groups of consumers based on some type of shared characteristics.
 - RFM analysis is a data driven customer behavior segmentation technique.
 - RFM stands for Recency, Frequency, and Monetary value (Sales in this example).
