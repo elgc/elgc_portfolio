@@ -48,6 +48,6 @@ The label associated with each record contains "Rock" or "Mine".
 
 Three trained human subjects were each tested on 100 signals, chosen at random from the set of 208 returns used to create this data set. Their responses ranged between **88% and 97% correct**. However, they may have been using information from the raw sonar signal that is not preserved in the processed data sets presented here.
 
-One of the modelsobtained accuracy of **98.1%**
+One of the models obtained accuracy of **98.1%**
 
 ![](/Images/Table.png)
