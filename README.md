@@ -3,6 +3,20 @@
 
 *"We data scientists are continuous improvers, we are able to choose the right technology, understand the business context and solve a wide set of problems individually or as a team."*
 
+### [Market Segmentation using RFM and Cluster Analysis](https://github.com/elgc/Market_Segmentation/blob/main/MarketSegmentation1.ipynb)
+**(Cluster Analysis, RFM customer Segmentation)**
+- Market segmentation is the process of dividing a consumer market, normally consisting of existing and potential customers, into sub-groups of consumers based on some type of shared characteristics.
+- RFM analysis is a data driven customer behavior segmentation technique.
+- RFM stands for Recency, Frequency, and Monetary value (Sales in this example).
+- The  idea is to segment customers based on when their last purchase was (Recency), how often they’ve purchased in the past (Frequency), and how much they’ve spent overall (Sales). All three of these measures are effective predictors of a customer's willingness to engage in marketing messages and offers.
+
+The data consists of 594783 entries with three columns: Date of purchase, Client number, and Sale value from a company that offers delivery services. 
+
+**Cluster analysis** is a statistical method used to group similar objects into respective categories. It is also known as segmentation analysis, taxonomy analysis, or clustering. When these groups are clearly defined, a marketing team can target clusters of customers with cluster with tailored, targeted strategies.
+
+![](/Images/Cluster1.png)
+
+
 ### [A3 and TBP for Process Improvement](https://github.com/elgc/Portfolio/blob/main/A3TBP_Appaloosa.pdf)
 **(Process improvement, Lean, Six Sigma)** <br/>
 This is a short paper on the use of the A3/TBP methodology for process improvement. Also, it tries to convey the message that any transformational project needs to be explored and observed in the "place where the action is." The term for exploring and observing a process is called Genchi Genbutsu.
@@ -12,6 +26,7 @@ Some of my friends from overseas are not familiar with baseball quotes. A future
 ![](/Images/Before.png)
 ---
 ### Classifiers improving human appraisers benchmark:
+**(KNN, SVM, Logistic Regression)**
 
 [KNN](https://github.com/elgc/Other-Classifiers/blob/main/KNN-Sonar%20Data.ipynb)
 
