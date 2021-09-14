@@ -14,9 +14,13 @@ Some of my friends from overseas are not familiar with baseball quotes. A future
 ### Classifiers improving human appraisers benchmark:
 
 [KNN](https://github.com/elgc/Other-Classifiers/blob/main/KNN-Sonar%20Data.ipynb)
+
 [SVM with linear kernel](https://github.com/elgc/Other-Classifiers/blob/main/Sonar%20Data%20with%20Support%20Vector%20Machine%20Linear%20kernel.ipynb)
+
 [SVM with radial kernel](https://github.com/elgc/Other-Classifiers/blob/main/Sonar%20Data%20Support%20Vector%20Machine%20Radial%20Kernel.ipynb)
+
 [Binary logistic regression](https://github.com/elgc/Other-Classifiers/blob/main/Logistic%20Regression-Sonar%20Data.ipynb)
+
 
 Four simple classifiers are used to provide better performance than human inspectors in the detection of submarine mines. The data is as follows:
 
