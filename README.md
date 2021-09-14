@@ -26,7 +26,7 @@ Some of my friends from overseas are not familiar with baseball quotes. A future
 
 ![](/Images/Before.png)
 ---
-### 3. [Classifiers improving human appraisers evaluation]
+### 3. [Classifiers improving human appraisers evaluation]()
 **(KNN, SVM, Logistic Regression)**
 
 [KNN](https://github.com/elgc/Other-Classifiers/blob/main/KNN-Sonar%20Data.ipynb)
