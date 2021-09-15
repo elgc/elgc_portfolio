@@ -1,4 +1,7 @@
 # Portfolio
+
+## 01000001 01101101 01100001 01110100 00100000 01110110 01101001 01100011 01110100 01101111 01110010 01101001 01100001 00100000 01100011 01110101 01110010 01100001 01101101
+
 ### Ernesto L. Garcia C., PhD.
 
 *"We data scientists are continuous improvers, able to choose the right technology, understand the business context and solve a wide set of problems individually or as a team."*
