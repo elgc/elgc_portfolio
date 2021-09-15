@@ -13,7 +13,7 @@ These real data (reduced, scaled and transformed) consists of 594,783 purchasing
 
 - **Customer segmentation** is the process of dividing a market into sub-groups of clients based on some type of shared characteristics.
 - **RFM** stands for Recency, Frequency, and Monetary value (Sales in this example).
-- **Task objective:** segment clients based on when their last purchase was (Recency), how often they’ve purchased in the past (Frequency), and how much they’ve spent overall (Sales). All three of these measures are effective predictors of a customer's willingness to engage in marketing messages and offers.
+- **Objective:** Segment clients based on when their last purchase was (Recency), how often they’ve purchased in the past (Frequency), and how much they’ve spent overall (Sales). All three of these measures are effective predictors of a customer's willingness to engage in marketing messages and offers.
 - **Cluster analysis**: ML tech used to group similar objects into respective categories. It is also known as segmentation analysis, taxonomy analysis, or clustering. 
 - **Output:** Once these groups were clearly defined, a marketing team could target clients with specific strategies and increase profits.
 
@@ -26,6 +26,7 @@ These real data (reduced, scaled and transformed) consists of 594,783 purchasing
 - **Short paper** on the use of the **A3/TBP methodology** for sustainable and dramatic process improvement. 
 - **Objective:** Comunicate that any transformational project needs to be explored and observed in the *"place where the action is."* The term for exploring and observing a process is called **Genchi Genbutsu**.
 - **Caveat:** Through each step of the A3 methodology I have used baseball quotes. When I sent the first draft for feedback some of my colleages from overseas replied that they were not able to understand the quotes due to their lack of familiarity with baseball. A future case, with soccer references :), is on the way.
+- **Output**: Zero defects in a record number of shipments.
 
 ![](/Images/Before.png)
 ---
@@ -41,8 +42,8 @@ These real data (reduced, scaled and transformed) consists of 594,783 purchasing
 [Binary logistic regression](https://github.com/elgc/Other-Classifiers/blob/main/Logistic%20Regression-Sonar%20Data.ipynb)
 
 
-- **Four simple classifiers** are used to provide better performance than human inspectors in the detection of submarine mines. 
-- Three trained human subjects detected **88% to 97%** of the mines. However, they may have been using information from the raw sonar signal that is not preserved in the processed data sets presented here.
+- **Objective:** Provide better performance than human inspectors in the detection of submarine mines. 
+- **Baseline:** Three trained human subjects detected **88% to 97%** of the mines. However, they may have been using information from the raw sonar signal that is not preserved in the processed data sets presented here.
 - **Output:** One of the models detected **98.1%** of the mines at higher speed and lower cost.
 
 ![](/Images/Table.png)
@@ -50,10 +51,20 @@ These real data (reduced, scaled and transformed) consists of 594,783 purchasing
 ### 4. [Overland Move Planning for Intermodal Logistics with Order Uncertainty](https://github.com/elgc/Portfolio/blob/main/iie-presentation.pdf)
 **(Operations Research, Logistics)**
 
-- Presentation describing the mathematical model and systems architecture to minimize the transportation of empty containers for a logistics company.
+- **Objective:** Describing the mathematical model and systems architecture to minimize the transportation of empty containers for a logistics company.
 - Presented at ISERC 2013, Puerto Rico.
+- **Output:** Proof of concept for future selection of best commercial solution.
+- This proof of concept was developed with faculty and PhD students from the University of Florida.
 
 ![](/Images/OR1.png)
 ---
+### 5. [Operating profit maximization for Ship Assist & Escort](https://github.com/elgc/Portfolio/blob/main/Profit%20maximization%20project%20for%20Ship%20Assist.pdf)
 
+**(Data Science, Simulation, Maritime)**
 
+- **Objective:** Increase the operating profit of a Ship Assist & Escort company in the West coast.
+- Presented at the 2020 Lean & Six Sigma World Conference.
+- **Output:** Positive shift of 11 percent in operating margin.
+- This project was jointly developed with one heck of a good industrial engineer: Mr. Rami Mouad.
+
+![](/Images/Tug.png)
