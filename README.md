@@ -46,3 +46,14 @@ These real data (reduced, scaled and transformed) consists of 594,783 purchasing
 - **Output:** One of the models detected **98.1%** of the mines at higher speed and lower cost.
 
 ![](/Images/Table.png)
+---
+### 4. [Overland Move Planning for Intermodal Logistics with Order Uncertainty](https://github.com/elgc/Portfolio/blob/main/iie-presentation.pdf)
+**(Operations Research, Logistics)**
+
+- Presentation describing the mathematical model and systems architecture to minimize the transportation of empty containers for a logistics company.
+- Presented at ISERC 2013, Puerto Rico.
+
+![](/Images/OR1.png)
+---
+
+
