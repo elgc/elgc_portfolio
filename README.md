@@ -18,8 +18,8 @@ These real data (reduced, scaled and transformed) consists of 594,783 purchasing
 - **Output:** Once these groups were clearly defined, a marketing team could target clients with specific strategies and increase profits.
 
 <p align="center">
-<img src="https://github.com/elgc/elgc_portfolio/blob/main/Images/NoClusters.png" style="max-width:100%;">
-<img src="https://github.com/elgc/elgc_portfolio/blob/main/Images/Clust2.png" style="max-width:100%;">
+<img src="/Images/NoClusters.png" style="max-width:100%;">
+<img src="/Images/Clust2.png" style="max-width:100%;">
 </p>
 
 ### 2. [A3 and TBP for Process Improvement](https://github.com/elgc/Portfolio/blob/main/A3TBP_Appaloosa.pdf)
