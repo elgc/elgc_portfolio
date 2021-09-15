@@ -7,7 +7,6 @@
 *"Continuous improver, able to choose the right technology, understand the business context and solve a wide set of problems individually or as a team."*
 
 ### 1. [Market Segmentation using RFM and Cluster Analysis](https://github.com/elgc/Market_Segmentation/blob/main/MarketSegmentation1.ipynb)
-**(Cluster Analysis, RFM Customer Segmentation)**
 
 These real data (reduced, scaled and transformed) consists of 594,783 purchasing entries with three columns: *Date*, *Client*, and *Sale* value. 
 
