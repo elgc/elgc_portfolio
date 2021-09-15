@@ -7,6 +7,7 @@
 *"Continuous improver, able to choose the right technology, understand the business context and solve a wide set of problems individually or as a team."*
 
 ### 1. [Market Segmentation using RFM and Cluster Analysis](https://github.com/elgc/Market_Segmentation/blob/main/MarketSegmentation1.ipynb)
+**(Data Science)**
 
 These real data (reduced, scaled and transformed) consists of 594,783 purchasing entries with three columns: *Date*, *Client*, and *Sale* value. 
 
@@ -18,13 +19,13 @@ These real data (reduced, scaled and transformed) consists of 594,783 purchasing
 
 ![](/Images/NoClusters.png)
 ![](/Images/Clust2.png)
-
-
+---
 ### 2. [A3 and TBP for Process Improvement](https://github.com/elgc/Portfolio/blob/main/A3TBP_Appaloosa.pdf)
-**(Process improvement, Lean, Six Sigma)** <br/>
-This is a short paper on the use of the A3/TBP methodology for sustainable and dramatic process improvement. It communicates the message that any transformational project needs to be explored and observed in the "place where the action is." The term for exploring and observing a process is called Genchi Genbutsu.
+**(Lean-Six Sigma)** <br/>
 
-Through each step of the A3 methodology I have used baseball quotes. When I sent the first draft for feedback, some of my colleages from overseas replied that they were not able to understand the quotes because their lack of familiarity with baseball. A future case with soccer references is on the way.
+-Short paper on the use of the **A3/TBP methodology** for sustainable and dramatic process improvement. 
+-**Objective:** Comunicate that any transformational project needs to be explored and observed in the *"place where the action is."* The term for exploring and observing a process is called **Genchi Genbutsu**.
+-**Caveat:** Through each step of the A3 methodology I have used baseball quotes. When I sent the first draft for feedback some of my colleages from overseas replied that they were not able to understand the quotes due to their lack of familiarity with baseball. A future case, with soccer references :), is on the way.
 
 ![](/Images/Before.png)
 ---
