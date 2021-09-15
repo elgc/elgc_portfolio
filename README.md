@@ -1,25 +1,26 @@
 # Portfolio
 
-01010111 01101000 01101111 00100000 01100100 01100001 01110010 01100101 01110011 00100000 01110111 01101001 01101110 01110011
+01100001 01101101 01100100 01100111
 
 ### Ernesto L. Garcia C., PhD.
 
-*"We data scientists are continuous improvers, able to choose the right technology, understand the business context and solve a wide set of problems individually or as a team."*
+*"Continuous improver, able to choose the right technology, understand the business context and solve a wide set of problems individually or as a team."*
 
 ### 1. [Market Segmentation using RFM and Cluster Analysis](https://github.com/elgc/Market_Segmentation/blob/main/MarketSegmentation1.ipynb)
 **(Cluster Analysis, RFM Customer Segmentation)**
-- Market segmentation is the process of dividing a consumer market, normally consisting of existing and potential customers, into sub-groups of consumers based on some type of shared characteristics.
-- RFM analysis is a data driven customer behavior segmentation technique.
-- RFM stands for Recency, Frequency, and Monetary value (Sales in this example).
-- The  idea is to segment customers based on when their last purchase was (Recency), how often they’ve purchased in the past (Frequency), and how much they’ve spent overall (Sales). All three of these measures are effective predictors of a customer's willingness to engage in marketing messages and offers.
 
-The data consists of 594783 entries with three columns: Date of purchase, Client number, and Sale value from a company that offers delivery services. 
+These real data (reduced, scaled and transformed) consists of 594,783 purchasing entries with three columns: *Date*, *Client*, and *Sale* value. 
 
-**Cluster analysis** is a statistical method used to group similar objects into respective categories. It is also known as segmentation analysis, taxonomy analysis, or clustering. When these groups are clearly defined, a marketing team can target customers with tailored strategies.
+- **Customer segmentation** is the process of dividing a market into sub-groups of clients based on some type of shared characteristics.
+- **RFM** stands for Recency, Frequency, and Monetary value (Sales in this example).
+- **Task objective:** segment clients based on when their last purchase was (Recency), how often they’ve purchased in the past (Frequency), and how much they’ve spent overall (Sales). All three of these measures are effective predictors of a customer's willingness to engage in marketing messages and offers.
+- **Cluster analysis**: ML tech used to group similar objects into respective categories. It is also known as segmentation analysis, taxonomy analysis, or clustering. 
+- **Output:** Once these groups were clearly defined, a marketing team could target clients with specific strategies and increase profits.
 
-![](/Images/NoClusters.png)
-![](/Images/Cluster1.png)
-
+<p align="center">
+<img src="https://github.com/elgc/elgc_portfolio/blob/main/Images/NoClusters.png" style="max-width:100%;">
+<img src="https://github.com/elgc/elgc_portfolio/blob/main/Images/Clust2.png" style="max-width:100%;">
+</p>
 
 ### 2. [A3 and TBP for Process Improvement](https://github.com/elgc/Portfolio/blob/main/A3TBP_Appaloosa.pdf)
 **(Process improvement, Lean, Six Sigma)** <br/>
