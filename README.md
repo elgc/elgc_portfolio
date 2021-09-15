@@ -17,10 +17,9 @@ These real data (reduced, scaled and transformed) consists of 594,783 purchasing
 - **Cluster analysis**: ML tech used to group similar objects into respective categories. It is also known as segmentation analysis, taxonomy analysis, or clustering. 
 - **Output:** Once these groups were clearly defined, a marketing team could target clients with specific strategies and increase profits.
 
-<p align="center">
-<img src="/Images/NoClusters.png" style="max-width:100%;">
-<img src="/Images/Clust2.png" style="max-width:100%;">
-</p>
+![](/Images/NoClusters.png)
+![](/Images/Clust2.png)
+
 
 ### 2. [A3 and TBP for Process Improvement](https://github.com/elgc/Portfolio/blob/main/A3TBP_Appaloosa.pdf)
 **(Process improvement, Lean, Six Sigma)** <br/>
