@@ -4,7 +4,7 @@
 
 ### Ernesto L. Garcia C., PhD.
 
-*"Continuous improver, able to choose the right technology, understand the business context and solve a wide set of problems individually or as a team."*
+*"Able to understand the challenge and business context, choose the right technology and deliver solutions leading teams, being part of a team, or individually."*
 
 ### 1. [Market Segmentation using RFM and Cluster Analysis](https://github.com/elgc/Market_Segmentation/blob/main/MarketSegmentation1.ipynb)
 **(Data Science, Marketing)**
