@@ -25,7 +25,7 @@ These real data (reduced, scaled and transformed) consists of 594,783 purchasing
 
 - **Short paper** on the use of the **A3/TBP methodology** for sustainable and dramatic process improvement. 
 - **Objective:** Comunicate that any transformational project needs to be explored and observed in the *"place where the action is."* The term for exploring and observing a process is called **Genchi Genbutsu**.
-- **Caveat:** Through each step of the A3 methodology I have used baseball quotes. When I sent the first draft for feedback some of my colleages from overseas replied that they were not able to understand the quotes due to their lack of familiarity with baseball. A future case, with soccer references :), is on the way.
+- **Caveat:** Through each step of the A3 methodology I have used baseball quotes. When I sent the first draft for feedback some of my colleagues from overseas replied that they were not able to understand the quotes due to their lack of familiarity with baseball. A future case, with soccer references :), is on the way.
 - **Output**: Zero defects in a record number of shipments.
 
 ![](/Images/Before.png)
