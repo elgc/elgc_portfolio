@@ -30,7 +30,7 @@ These real data (reduced, scaled and transformed) consists of 594,783 purchasing
 
 ![](/Images/Before.png)
 ---
-### 3. [Classifiers improving human appraisers evaluation]()
+### 3. [Classifiers improving human appraisers evaluation](https://github.com/elgc/Other-Classifiers)
 **(Data Science)**
 
 [KNN](https://github.com/elgc/Other-Classifiers/blob/main/KNN-Sonar%20Data.ipynb)
