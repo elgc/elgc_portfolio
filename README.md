@@ -68,3 +68,13 @@ These real data (reduced, scaled and transformed) consists of 594,783 purchasing
 - This project was jointly developed with one heck of a good industrial engineer: Mr. Rami Mouad.
 
 ![](/Images/Tug.png)
+---
+### 6. [Forecasting Health Insurance Costs](https://github.com/elgc/Insurance-costs-predictor/blob/main/RFR_Insurance%20Costs.ipynb)
+**(Data Science, Health Insurance)***
+
+- **Objective:** Develop a simple model to estimate the cost of health insurance as a function of variables under individal control.
+- **Output:** A Random Forest Tree model with Hyperparameter Optimization provides good predictability with an R2=0.87 on test data.
+- Different models were evaluated and are in the repository: Multiple Linear Regression, Polynomial Regression.
+
+![](/Images/Insurance%20costs.png)
+---
