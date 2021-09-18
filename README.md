@@ -6,7 +6,7 @@
 
 *"Able to understand the challenge and business context, choose the right technology and deliver solutions leading teams, being part of a team, or individually."*
 
-### 1. [Market Segmentation using RFM and Cluster Analysis](https://github.com/elgc/Market_Segmentation/blob/main/MarketSegmentation1.ipynb)
+### 1. [Market Segmentation using RFM and Cluster Analysis](https://github.com/elgc/Market_Segmentation)
 **(Data Science, Marketing)**
 
 These real data (reduced, scaled and transformed) consists of 594,783 purchasing entries with three columns: *Date*, *Client*, and *Sale* value. 
