@@ -76,5 +76,5 @@ These real data (reduced, scaled and transformed) consists of 594,783 purchasing
 - **Output:** A Random Forest Tree model with Hyperparameter Optimization provided the best predictability with **R2=0.87** on test data.
 - Different models were evaluated and are in the repository: Multiple Linear Regression, Polynomial Regression.
 
-![](/Images/Insurance%20costs.png)
+![](/Images/Inscosts.png)
 ---
