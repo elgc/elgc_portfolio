@@ -78,3 +78,7 @@ These real data (reduced, scaled and transformed) consists of 594,783 purchasing
 
 ![](/Images/Inscosts.png)
 ---
+### 7. [Samples of material used for training](https://github.com/elgc/Notebooks-and-slides-in-Lean-Six-Sigma)
+**(Training material samples, OEE, Capability)**
+
+- These are samples of training materials used for my customers. They can be supplemented with real examples from your operations. Go to the link and feel free to download the files.
