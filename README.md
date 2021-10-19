@@ -60,7 +60,7 @@ These real data (reduced, scaled and transformed) consists of 594,783 purchasing
 ---
 ### 5. [Operating profit maximization for Ship Assist & Escort](https://github.com/elgc/Portfolio/blob/main/Profit%20maximization%20project%20for%20Ship%20Assist.pdf)
 
-**(Mix Modeling and Optimization, Simulation, Random Forest Regression, Maritime)**
+**(Marketing/Sales, Mix Modeling and Optimization, Simulation, Random Forest Regression, Maritime)**
 
 - **Objective:** Increase the operating profit of a Ship Assist & Escort company in the West coast.
 - Presented at the 2020 Lean & Six Sigma World Conference.
