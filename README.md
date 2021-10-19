@@ -74,9 +74,9 @@ These real data (reduced, scaled and transformed) consists of 594,783 purchasing
 
 - **Objective:** Develop a simple model to estimate the cost of health insurance as a function of variables considered under control of the individual.
 - **Output:** Two models: A Random Forest Tree model with Hyperparameter Optimization using random search and a Random Forest with Boosting (CatBoost) with grid search provided the best predictability with **R2=0.87** on test data.
-- Different approaches were evaluated and are in the repository: Multiple Linear Regression, Random Forests, Boosting, Hyperparameter Optimization (random search, grid search) Polynomial Regression.
+- Different approaches were evaluated and are in the repository: Multiple Linear Regression, Random Forests, Boosting (CatBoost), Hyperparameter Optimization (random search, grid search) Polynomial Regression.
 
-![](/Images/Inscosts.png)
+![](/Images/SHAP.png)
 ---
 ### 7. [Samples of material used for training](https://github.com/elgc/Notebooks-and-slides-in-Lean-Six-Sigma)
 **(Training material samples, OEE, Capability)**
