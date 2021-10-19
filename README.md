@@ -21,7 +21,7 @@ These real data (reduced, scaled and transformed) consists of 594,783 purchasing
 ![](/Images/Clust2.png)
 ---
 ### 2. [A3 and TBP for Process Improvement](https://github.com/elgc/Portfolio/blob/main/A3TBP_Appaloosa.pdf)
-**(Lean-Six Sigma, Logistics)** <br/>
+**(Lean-Six Sigma, Logistics, Sustainable defect reduction)** <br/>
 
 - **Short paper** on the use of the **A3/TBP methodology** for sustainable and dramatic process improvement. 
 - **Objective:** Comunicate that any transformational project needs to be explored and observed in the *"place where the action is."* The term for exploring and observing a process is called **Genchi Genbutsu**.
