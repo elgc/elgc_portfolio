@@ -4,7 +4,9 @@
 
 ### Ernesto L. Garcia C., PhD.
 
-*"Able to understand the challenge and business context, choose the right technology and deliver solutions leading teams, being part of a team, or individually."*
+*"Experienced practicioner able to understand the challenge and business context, choose the right technology and deliver solutions leading teams, being part of a team, or individually. Engineer with mastery of statistics and linear algebra to approach problems with rigor and mathematical superiority; Machine Learning technologies to achieve modeling performance; Analytics acumen to focus on the important rather than the interesting; and Storytelling to translate complex results into practical decisions."*
+
+You can reach me at: gauchecolibri@gmail.com
 
 ### 1. [Market Segmentation using RFM and Cluster Analysis](https://github.com/elgc/Market_Segmentation)
 **(Data Science, Marketing)**
