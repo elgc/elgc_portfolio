@@ -64,7 +64,7 @@ These real data (reduced, scaled and transformed) consists of 594,783 purchasing
 
 - **Objective:** Increase the operating profit of a Ship Assist & Escort company in the West coast.
 - Presented at the 2020 Lean & Six Sigma World Conference.
-- **Output:** Positive shift of 11 percent in operating margin.
+- **Output:** Portfolio Mix with a positive shift of 11 percent in operating margin.
 - This project was jointly developed with one heck of a good industrial engineer: Mr. Rami Mouad.
 
 ![](/Images/Tug.png)
