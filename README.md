@@ -124,3 +124,4 @@ Definitions:
 
 **Results:** The algorithm was run and provided a stable matching. A list of the mentee-mentor names was supplied to the manager within 60 minutes of the reception of all data.
 
+![](/Images/match.jpg)
