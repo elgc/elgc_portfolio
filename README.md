@@ -114,8 +114,9 @@ Definitions:
 **Description:** These are samples of training materials used by my customers. They can be supplemented with real examples from your operations. Go to the link and feel free to download the files.
 
 ### 9. [Matching Mentor and Mentee for a leadership program](https://github.com/elgc/Matching_Problem/blob/main/README.md)
+**(Topic: Operations research in R)**
 
-***Situation:** The leadership development group requested an algorithm to pair mentees with mentors based on their preferences. These mentees were part of a leadership program that included training, job rotation and mentorship for six months. 
+**Situation:** The leadership development group requested an algorithm to pair mentees with mentors based on their preferences. These mentees were part of a leadership program that included training, job rotation and mentorship for six months. 
 
 **Objective:** The program manager wanted to have the matching pairs defined within one hour of generating preference submission forms for all mentees. This was done during the kick-off of the program. Therefore, the analyst had to receive the preferences by e-mail and submit a matching list to the manager within 60 minutes.
 
