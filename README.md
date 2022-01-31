@@ -83,6 +83,8 @@ The following definition of terms are important"
 **Objective:** Increase the operating profit of a Ship Assist & Escort company in the West coast.
 - Presented at the 2020 Lean & Six Sigma World Conference.
 
+**Tasks performed:** Exploratory data analysis, analysis of data using regression trees that led to determination of arrival and process distributions, model logic structure, activities and resources for discrete event modeling using Arena. After the model was created and validated, evaluation of potential scenarios was carried on to select the best operating portfolio.
+
 **Output:** Portfolio Mix with a positive shift of 11 percent in operating margin.
 - This project was jointly developed with one heck of a good industrial engineer: Mr. Rami Mouad.
 
@@ -102,9 +104,14 @@ The following definition of terms are important"
 ![](/Images/SHAP.png)
 ---
 ### 7. [Paper on Binary Classification Metrics](https://github.com/elgc/Other-Classifiers/blob/main/Classification_metrics.pdf)
-**(Basic performance measures for classification models are presented along with general selection guidelines and a discussion of the costs associated to a bad prediction. Reading time: 15 minutes.)**
-### 8. [Samples of material used for training](https://github.com/elgc/Notebooks-and-slides-in-Lean-Six-Sigma)
-**(Training material samples, OEE, Capability)**
+**(Topic: Machine learning**
 
-- These are samples of training materials used for my customers. They can be supplemented with real examples from your operations. Go to the link and feel free to download the files.
+**context:** Basic performance measures for classification models are presented along with general selection guidelines and a discussion of the costs associated to a bad prediction. Reading time: 15 minutes.)
+
+### 8. [Samples of material used for training](https://github.com/elgc/Notebooks-and-slides-in-Lean-Six-Sigma)
+**(Topics: Training material on OEE, Capability)**
+
+**Description:** These are samples of training materials used by my customers. They can be supplemented with real examples from your operations. Go to the link and feel free to download the files.
+
+
 
