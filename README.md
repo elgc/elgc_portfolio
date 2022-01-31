@@ -104,9 +104,9 @@ Definitions:
 ![](/Images/SHAP.png)
 ---
 ### 7. [Paper on Binary Classification Metrics](https://github.com/elgc/Other-Classifiers/blob/main/Classification_metrics.pdf)
-**(Topic: Machine learning**
+**(Topic: Machine learning**)
 
-**context:** Basic performance measures for classification models are presented along with general selection guidelines and a discussion of the costs associated to a bad prediction. Reading time: 15 minutes.)
+**Description:** Basic performance measures for classification models are presented along with general selection guidelines and a discussion of the costs associated to a bad prediction. Reading time: 15 minutes.
 
 ### 8. [Samples of material used for training](https://github.com/elgc/Notebooks-and-slides-in-Lean-Six-Sigma)
 **(Topics: Training material on OEE, Capability)**
