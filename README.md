@@ -9,7 +9,7 @@
 You can reach me at: gauchecolibri@gmail.com
 
 ### 1. [Market Segmentation using RFM and Cluster Analysis](https://github.com/elgc/Market_Segmentation)
-**(Topics:Data Science, Marketing)**
+**(Topics: Data Science, Marketing)**
 
 **Situation:** The marketing function of a company wanted to perform a customer segmentation of its customers using a RFM algorithm. The data (reduced, scaled and transformed to provide anonymity) consists of 594,783 purchasing entries with three columns: *Date*, *Client*, and *Sale* value. 
 
@@ -17,7 +17,7 @@ The following definition of terms are important"
 
 - *Customer segmentation* is the process of dividing a market into sub-groups of clients based on some type of shared characteristics.
 - *RFM* stands for Recency, Frequency, and Monetary value (Sales in this example).
-- 
+
 **Objective:** Segment clients based on when their last purchase was (Recency), how often they’ve purchased in the past (Frequency), and how much they’ve spent overall (Sales). In general, these measures are effective predictors of a customer's willingness to engage in marketing messages and offers.
 
 **Task: Cluster analysis**: Machine learning clustering algorithms are used to group similar objects into respective categories. It is also known as segmentation analysis, taxonomy analysis, or clustering. 
@@ -28,17 +28,22 @@ The following definition of terms are important"
 ![](/Images/Clust2.png)
 ---
 ### 2. [A3 and TBP for Process Improvement](https://github.com/elgc/Portfolio/blob/main/A3TBP_Appaloosa.pdf)
-**(Lean-Six Sigma, Logistics, Sustainable defect reduction)** <br/>
+**(Topics: Lean-Six Sigma, Logistics, Sustainable defect reduction)** <br/>
 
-- **Short paper** on the use of the **A3/TBP methodology** for sustainable and dramatic process improvement. 
-- **Objective:** Comunicate that any transformational project needs to be explored and observed in the *"place where the action is."* The term for exploring and observing a process is called **Genchi Genbutsu**.
+**Situation** This is a short paper describing the use of the **A3/TBP methodology** in a real case that delivered dramatic results. 
+
+**Objective:** Comunicate that any transformational project needs to be explored and observed in the *"place where the action is."* The term for exploring and observing a process is called **Genchi Genbutsu**.
+
 - **Caveat:** Through each step of the A3 methodology I have used baseball quotes. When I sent the first draft for feedback some of my colleagues from overseas replied that they were not able to understand the quotes due to their lack of familiarity with baseball. A future case, with soccer references :), is on the way.
-- **Output**: Zero defects in a record number of shipments.
+
+**Tasks:** Eight steps for Toyota's A3.
+
+**Output**: Zero defects in a record number of shipments.
 
 ![](/Images/Before.png)
 ---
 ### 3. [Classifiers improving human appraisers evaluation](https://github.com/elgc/Other-Classifiers)
-**(Data Science)**
+**(Topic: Machine learning simple algorithms)**
 
 [KNN](https://github.com/elgc/Other-Classifiers/blob/main/KNN-Sonar%20Data.ipynb)
 
