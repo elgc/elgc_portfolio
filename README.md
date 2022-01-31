@@ -11,17 +11,18 @@ You can reach me at: gauchecolibri@gmail.com
 ### 1. [Market Segmentation using RFM and Cluster Analysis](https://github.com/elgc/Market_Segmentation)
 **(Topics:Data Science, Marketing)**
 
--**Situation:** The marketing function of a company wanted to perform a customer segmentation of its customers using a RFM algorithm. The data (reduced, scaled and transformed to provide anonymity) consists of 594,783 purchasing entries with three columns: *Date*, *Client*, and *Sale* value. 
+**Situation:** The marketing function of a company wanted to perform a customer segmentation of its customers using a RFM algorithm. The data (reduced, scaled and transformed to provide anonymity) consists of 594,783 purchasing entries with three columns: *Date*, *Client*, and *Sale* value. 
 
 The following definition of terms are important"
 
 - *Customer segmentation* is the process of dividing a market into sub-groups of clients based on some type of shared characteristics.
 - *RFM* stands for Recency, Frequency, and Monetary value (Sales in this example).
 - 
-- **Objective:** Segment clients based on when their last purchase was (Recency), how often they’ve purchased in the past (Frequency), and how much they’ve spent overall (Sales). 
-- In general, these measures are effective predictors of a customer's willingness to engage in marketing messages and offers.
-- **Task: Cluster analysis**: ML tech used to group similar objects into respective categories. It is also known as segmentation analysis, taxonomy analysis, or clustering. 
-- **Output:** Once these groups were clearly defined, a marketing team could target clients with specific strategies and increase profits.
+**Objective:** Segment clients based on when their last purchase was (Recency), how often they’ve purchased in the past (Frequency), and how much they’ve spent overall (Sales). In general, these measures are effective predictors of a customer's willingness to engage in marketing messages and offers.
+
+**Task: Cluster analysis**: Machine learning clustering algorithms are used to group similar objects into respective categories. It is also known as segmentation analysis, taxonomy analysis, or clustering. 
+
+**Output:** Once these groups were clearly defined, a marketing team could target clients within each classification using specific strategies to increase profits.
 
 ![](/Images/NoClusters.png)
 ![](/Images/Clust2.png)
