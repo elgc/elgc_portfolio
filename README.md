@@ -45,6 +45,8 @@ The following definition of terms are important"
 ### 3. [Classifiers improving human appraisers evaluation](https://github.com/elgc/Other-Classifiers)
 **(Topic: Machine learning simple algorithms)**
 
+**Situation:** Four classification algorithms were tested on a generic mines classification problem (see reference in Github repository)
+
 [KNN](https://github.com/elgc/Other-Classifiers/blob/main/KNN-Sonar%20Data.ipynb)
 
 [SVM with linear kernel](https://github.com/elgc/Other-Classifiers/blob/main/Sonar%20Data%20with%20Support%20Vector%20Machine%20Linear%20kernel.ipynb)
@@ -53,40 +55,49 @@ The following definition of terms are important"
 
 [Binary logistic regression](https://github.com/elgc/Other-Classifiers/blob/main/Logistic%20Regression-Sonar%20Data.ipynb)
 
-
-- **Objective:** Provide better performance than human inspectors in the detection of submarine mines. 
+**Objective:** Provide better performance than human inspectors in the detection of submarine mines. 
 - **Baseline:** Three trained human subjects detected **88% to 97%** of the mines. However, they may have been using information from the raw sonar signal that is not preserved in the processed data sets presented here.
-- **Output:** One of the models detected **98.1%** of the mines at higher speed and lower cost.
+**Output:** One of the models detected **98.1%** of the mines at higher speed and lower cost.
 
 ![](/Images/Table.png)
 ---
 ### 4. [Overland Move Planning for Intermodal Logistics with Order Uncertainty](https://github.com/elgc/Portfolio/blob/main/iie-presentation.pdf)
-**(Operations Research, Logistics)**
+**(Topics: Operations Research, Logistics)**
 
-- **Objective:** Describing the mathematical model and systems architecture to minimize the transportation of empty containers for a logistics company.
-- Presented at ISERC 2013, Puerto Rico.
-- **Output:** Proof of concept for future selection of best commercial solution.
+**Situation:** as part of the selection process for an ERP system in transportation of cargo, a team of engineers from academia and industry was tasked to estimate the feasibility of a model to eliminate the transportation of empty containers under conditions of uncertainty.
+
+**Objective:** Describing the mathematical model and systems architecture to minimize the transportation of empty containers for a logistics company.
+- Paper presented at ISERC 2013, Puerto Rico.
+
+**Output:** Proof of concept for future selection of best commercial solution.
 - This proof of concept was developed with faculty and PhD students from the University of Florida.
 
 ![](/Images/OR1.png)
 ---
 ### 5. [Operating profit maximization for Ship Assist & Escort](https://github.com/elgc/Portfolio/blob/main/Profit%20maximization%20project%20for%20Ship%20Assist.pdf)
 
-**(Marketing/Sales, Mix Modeling and Optimization, Simulation, Random Forest Regression, Maritime)**
+**(Topics: Marketing/Sales, Mix Modeling and Optimization, Simulation, Random Forest Regression, Maritime ship assist)**
 
-- **Objective:** Increase the operating profit of a Ship Assist & Escort company in the West coast.
+**Situation:** Create a model to optimize the portfolio of clients under contract to maximize operating profits for a ship assist operation.
+
+**Objective:** Increase the operating profit of a Ship Assist & Escort company in the West coast.
 - Presented at the 2020 Lean & Six Sigma World Conference.
-- **Output:** Portfolio Mix with a positive shift of 11 percent in operating margin.
+
+**Output:** Portfolio Mix with a positive shift of 11 percent in operating margin.
 - This project was jointly developed with one heck of a good industrial engineer: Mr. Rami Mouad.
 
 ![](/Images/Tug.png)
 ---
 ### 6. [Forecasting Health Insurance Costs](https://github.com/elgc/Insurance-costs-predictor)
-**(Data Science, Health Insurance)***
+**(Topics: Machine learning, Health Insurance)***
 
-- **Objective:** Develop a simple model to estimate the cost of health insurance as a function of variables considered under control of the individual.
-- **Output:** Two models: A Random Forest Tree model with Hyperparameter Optimization using random search and a Random Forest with Boosting (CatBoost) with grid search provided the best predictability with **R2=0.87** on test data.
-- Different approaches were evaluated and are in the repository: Multiple Linear Regression, Random Forests, Boosting (CatBoost), Hyperparameter Optimization (random search, grid search) Polynomial Regression.
+**Situation:** Different regression models and techniques are used to estimate health insurance costs in a generic data set.
+
+**Objective:** Develop a simple but robust model to estimate the cost of health insurance as a function of variables considered under control of the individual.
+
+**Tasks:** Different approaches were evaluated and are in the repository: Multiple Linear Regression, Random Forests, Boosting (CatBoost), Hyperparameter Optimization (random search, grid search), and Polynomial Regression.
+
+**Output:** Two models: A Random Forest Tree with Hyperparameter Optimization using random search and a Random Forest with Boosting (CatBoost) with grid search provided the best predictability with **R2=0.87** on test data.
 
 ![](/Images/SHAP.png)
 ---
