@@ -56,7 +56,7 @@ Definitions:
 
 **Objective:** Provide better performance than human inspectors in the detection of submarine mines. 
 - **Baseline:** Three trained human subjects detected **88% to 97%** of the mines. However, they may have been using information from the raw sonar signal that is not preserved in the processed data sets presented here.
-- 
+
 **Output:** One of the models detected **98.1%** of the mines at higher speed and lower cost.
 
 ![](/Images/Table.png)
