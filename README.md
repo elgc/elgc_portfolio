@@ -13,14 +13,13 @@ You can reach me at: gauchecolibri@gmail.com
 
 **Situation:** The marketing function of a company wanted to perform a customer segmentation of its customers using a RFM algorithm. The data (reduced, scaled and transformed to provide anonymity) consists of 594,783 purchasing entries with three columns: *Date*, *Client*, and *Sale* value. 
 
-The following definition of terms are important"
-
+Definitions:
 - *Customer segmentation* is the process of dividing a market into sub-groups of clients based on some type of shared characteristics.
 - *RFM* stands for Recency, Frequency, and Monetary value (Sales in this example).
 
 **Objective:** Segment clients based on when their last purchase was (Recency), how often they’ve purchased in the past (Frequency), and how much they’ve spent overall (Sales). In general, these measures are effective predictors of a customer's willingness to engage in marketing messages and offers.
 
-**Task: Cluster analysis**: Machine learning clustering algorithms are used to group similar objects into respective categories. It is also known as segmentation analysis, taxonomy analysis, or clustering. 
+**Task**: Machine learning clustering algorithms were used to group similar objects into respective categories. 
 
 **Output:** Once these groups were clearly defined, a marketing team could target clients within each classification using specific strategies to increase profits.
 
@@ -57,6 +56,7 @@ The following definition of terms are important"
 
 **Objective:** Provide better performance than human inspectors in the detection of submarine mines. 
 - **Baseline:** Three trained human subjects detected **88% to 97%** of the mines. However, they may have been using information from the raw sonar signal that is not preserved in the processed data sets presented here.
+- 
 **Output:** One of the models detected **98.1%** of the mines at higher speed and lower cost.
 
 ![](/Images/Table.png)
