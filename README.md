@@ -113,6 +113,13 @@ Definitions:
 
 **Description:** These are samples of training materials used by my customers. They can be supplemented with real examples from your operations. Go to the link and feel free to download the files.
 
-### 9. [Matching Mentor and Mentee for a leadership one year training at a corporation](https://github.com/elgc/Matching_Problem/blob/main/README.md)
+### 9. [Matching Mentor and Mentee for a leadership program](https://github.com/elgc/Matching_Problem/blob/main/README.md)
 
-***
+***Situation:** The leadership development group requested an algorithm to pair mentees with mentors based on their preferences. These mentees were part of a leadership program that included training, job rotation and mentorship for six months. 
+
+**Objective:** The program manager wanted to have the matching pairs defined within one hour of generating preference submission forms for all mentees. This was done during the kick-off of the program. Therefore, the analyst had to receive the preferences by e-mail and submit a matching list to the manager within 60 minutes.
+
+**Tasks:** Forms were developed in excel as well as a function in R that provided a stable "marriage" algorithm using as input the names of the mentors (called Yodas), mentees (called Padawans) and a matrix establishing the preferences of each mentee. For this case the mentors have no specific mentee preference.
+
+**Results:** The algorithm was run and provided a stable matching. A list of the mentee-mentor names was supplied to the manager within 60 minutes of the reception of all data.
+
