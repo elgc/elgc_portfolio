@@ -125,3 +125,17 @@ Definitions:
 **Results:** The algorithm was run and provided a stable matching. A list of the mentee-mentor names was supplied to the manager within 60 minutes of the reception of all data.
 
 ![](/Images/match.jpg)
+
+### 10. [Fuel Supply for the State of Florida During Hurricane
+Evacuation]([https://github.com/elgc/ISSSP-Webinar/blob/main/Hurricanes_Webinar_Pres_ISSSP.pdf])
+**(Topic: Monte Carlo Simulation, Forecasting, Analysis)**
+
+**Situation:** Summary on a study to . 
+
+**Objective:** Provide the Florida Department of Transportation (FDOT) with fact-based recommendations to improve the State’s rack-to-retail fuel capacity in the context of a hurricane evacuation leveraging existing infrastructure and commercial fuel industry capabilities..
+
+**Tasks:** An analysis of supply and demand of gasoline fuel during the previous 5 days to hurrican arrival was performed using regression, montecarlo simulation and statistical analysis --distribution fitting. The study included quantification of the number of gas trucks needed by day and hour.
+
+**Results:** This is a brief summary of the recommendations provided.
+
+![](/Images/FDOT.png)
