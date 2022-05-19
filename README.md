@@ -126,10 +126,11 @@ Definitions:
 
 ![](/Images/match.jpg)
 
-### 10.[Fuel Supply for the State of Florida During Hurricane Evacuation](Hurricanes_Webinar_Pres_ISSSP.pdf)
+### 10.[Fuel Supply for the State of Florida During Hurricane Evacuation]
+(https://github.com/elgc/ISSSP-Webinar/blob/main/Hurricanes_Webinar_Pres_ISSSP.pdf)
 **(Topic: Monte Carlo Simulation, Forecasting, Analysis)**
 
-**Situation:** Summary on a study to . 
+**Situation:** Preparedness for Hurricane season. 
 
 **Objective:** Provide the Florida Department of Transportation (FDOT) with fact-based recommendations to improve the State’s rack-to-retail fuel capacity in the context of a hurricane evacuation leveraging existing infrastructure and commercial fuel industry capabilities..
 
