@@ -131,9 +131,9 @@ Definitions:
 
 **Situation:** Preparedness for Hurricane season. 
 
-**Objective:** Provide the Florida Department of Transportation (FDOT) with fact-based recommendations to improve the State’s rack-to-retail fuel capacity in the context of a hurricane evacuation leveraging existing infrastructure and commercial fuel industry capabilities..
+**Objective:** Provide the Florida Department of Transportation (FDOT) with fact-based recommendations to improve the State’s rack-to-retail fuel capacity in the context of a hurricane evacuation leveraging existing infrastructure and commercial fuel industry capabilities.
 
-**Tasks:** An analysis of supply and demand of gasoline fuel during the previous 5 days to hurrican arrival was performed using regression, montecarlo simulation and statistical analysis --distribution fitting. The study included quantification of the number of gas trucks needed by day and hour.
+**Tasks:** An analysis of supply and demand of gasoline fuel during the previous 5 days to hurricane arrival was performed using regression, montecarlo simulation and statistical analysis --distribution fitting. The study included quantification of the number of gas trucks needed by day and hour.
 
 **Results:** This is a brief summary of the recommendations provided.
 
